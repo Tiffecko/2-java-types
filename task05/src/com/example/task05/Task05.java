@@ -14,7 +14,6 @@ public class Task05 {
             }
             x /= 10;
         }
-
         return result;
     }
 

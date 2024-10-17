@@ -26,9 +26,8 @@ public class Task02 {
 
     public static void main(String[] args) {
 
-        String result = solution("123455");
+        String result = solution("ABC");
         System.out.println(result);
-         
     }
 
 }

@@ -19,8 +19,8 @@ public class Task10 {
     }
 
     public static void main(String[] args) {
-        float a = 0.3f;
-        float b = 0.4f;
+        float a = 0.4f;
+        float b = 0.3f;
         float sum = a + b;
         float c = 0.7f;
 

@@ -27,8 +27,7 @@ public class Task04 {
     }
 
     public static void main(String[] args) {
-        float result = calculate(-25, 5, "/");
+        float result = calculate(-25, 5, "-");
         System.out.println(result);
     }
-
 }
